@@ -1,4 +1,9 @@
+Quando devi inizializzare un repository git locale:
 git init
+git remote add main 'NOME DEL REPO.git'
+git remote -v
+
+Comandi git manuali che si possono fare automaticamente su intelòlij e altri IDE
 git add .
 git commit -m 'AGGIORNAMENTO'
 git push --set-upstream main master
