@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m 'AGGIORNAMENTO'
+git push --set-upstream main master
+git push
+
+Se non ti riconosce:
+git config --global user.email franz31roland@gmail.com
+git config --global user.name 4FTolentino
